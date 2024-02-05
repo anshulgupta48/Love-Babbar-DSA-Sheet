@@ -2,7 +2,7 @@
 
 // <======== Example ========>
 // Input: N = 5, Arr[] = {1,2,3,-2,5}
-// Output: 9
+// Output: 9 
 
 // Input: N = 4, Arr[] = {-1,-2,-3,-4}
 // Output: -1
